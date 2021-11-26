@@ -1,6 +1,6 @@
 # Nuxt 3 + @nuxtjs/eslint-module + prettier example
 
-A minimal install of nuxt 3 to which i added @nuxtjs/eslint-module and prettier to prove that the module is compatible and help the community.
+A minimal install of nuxt 3 to which i added [@nuxtjs/eslint-module](https://github.com/nuxt-community/eslint-module) and prettier to prove that the module is compatible and help the community.
 
 Let me know if i have forgot something ! (I intentionally left errors in the code so you can see that it works)
 
